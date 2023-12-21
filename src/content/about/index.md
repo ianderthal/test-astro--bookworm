@@ -16,6 +16,19 @@ what_i_do:
   - title: "Web Research"
     description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
+
+what_i_eat:
+  title: "Things I Enjoy Eating"
+  items:
+  - title: "Rice"
+    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+
+  - title: "Vegetables"
+    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+
+  - title: "Animals"
+    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+
 ---
 
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
